@@ -78,7 +78,7 @@ jupyter notebook notebook.ipynb
 ## View Online
 
 - **GitHub Notebook Link:**  
-[View on GitHub](https://github.com/yourusername/breast-cancer-case-study/blob/main/notebook.ipynb)
+[View on GitHub](https://github.com/joe2003-kariz/breast_cancer_case_study.git)
 
 - **View in Browser (nbviewer):**  
 [View on nbviewer](https://nbviewer.org/github/yourusername/breast-cancer-case-study/blob/main/notebook.ipynb)
