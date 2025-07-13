@@ -80,9 +80,6 @@ jupyter notebook notebook.ipynb
 - **GitHub Notebook Link:**  
 [View on GitHub](https://github.com/joe2003-kariz/breast_cancer_case_study.git)
 
-- **View in Browser (nbviewer):**  
-[View on nbviewer](https://nbviewer.org/github/yourusername/breast-cancer-case-study/blob/main/notebook.ipynb)
-
 ## Visual Aids
 
 | Visual | Link |
